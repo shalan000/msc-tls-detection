@@ -1,0 +1,13 @@
+data/
+*.pcap
+*.pcapng
+*.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+.DS_Store
+Thumbs.db
+results/*.png
+results/*.pdf
